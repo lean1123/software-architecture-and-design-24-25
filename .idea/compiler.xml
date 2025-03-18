@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="lab-02" target="17" />
+      <module name="lab-03" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
